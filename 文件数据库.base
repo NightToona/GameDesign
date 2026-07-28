@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: 视图
+    cardSize: 200
+    imageFit: ""
+    imageAspectRatio: 0.55
+    image: note.tags
+  - type: table
+    name: 表格
