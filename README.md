@@ -1,5 +1,7 @@
 # Game Design Archive
 
+![Status|136](https://img.shields.io/badge/status-Keeping%20Update-orange)
+
 个人游戏设计学习与思考记录。
 
 主要记录游玩过程中产生的问题、分析以及设计思考，
